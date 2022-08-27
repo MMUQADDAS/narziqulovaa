@@ -1,0 +1,218 @@
+.c {
+    color: rgb(95, 7, 73);
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.shm {
+
+    background-image: url("https://wallpapercave.com/wp/wp2003951.jpg");
+    width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.h {
+    color: rgb(81, 221, 16);
+    font-size: xx-large;
+}
+
+.n {
+    color: rgb(151, 7, 139);
+    font-size: xx-large;
+}
+
+.m {
+    text-align: center;
+
+
+
+}
+
+.name {
+    border: 5px solid aqua;
+    border-radius: 10px;
+}
+
+.name:hover {
+    border: 5px solid rgb(67, 37, 201);
+
+    border-radius: 100px;
+
+
+    width: 300px;
+    height: 150px;
+}
+
+h1 {
+    margin-left: 500px;
+    text-transform: capitalize;
+    text-align: center;
+    color: red;
+    background-color: lightcoral;
+
+    width: 700px;
+    font-weight: 900;
+    font-size: 50px;
+    border: 5px solid rgb(146, 69, 146);
+    border-radius: 50px;
+
+
+}
+
+h1:hover {
+    margin-left: 600px;
+    color: blue;
+    background-color: aqua;
+}
+
+body {
+    background-image: url("https://miro.medium.com/max/1200/1*IMIiOkcbE84CiRfOCI4GVA.jpeg");
+    background-size: cover;
+}
+
+b {
+    text-align: center;
+    font-size: xx-large;
+
+    border: 5px solid rgb(15, 56, 2);
+    background-color: chartreuse;
+    width: 700px;
+    height: 200px;
+
+}
+
+.s:hover {
+    border: 5px solid rgb(201, 37, 174);
+
+    border-radius: 50px;
+
+
+    width: 600px;
+    height: 400px;
+
+}
+
+.s {
+    border: 5px solid rgb(67, 37, 201);
+
+    border-radius: 100px;
+
+
+    width: 300px;
+    height: 200px;
+}
+
+
+.x {
+    background-color: rgb(129, 216, 216);
+    color: blue;
+    width: 900px;
+    height: 20px;
+
+}
+
+b:hover {
+    color: magenta;
+    background-color: pink;
+}
+
+em {
+    color: blueviolet;
+    background-color: antiquewhite;
+    background-size: auto;
+    font-weight: 900;
+    border-radius: 200px;
+}
+
+form {
+    border-color: blueviolet;
+    border-radius: 300px;
+}
+
+button:hover {
+    width: 100px;
+}
+
+.image {
+
+    background-image: url(" https://catherineasquithgallery.com/uploads/posts/2021-03/1614567923_94-p-zvezdochki-na-belom-fone-104.png");
+
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: contain;
+
+    background-origin: content-box;
+
+
+}
+
+.aa {
+    border: 10px solid rgb(124, 211, 52);
+    border-radius: 50px;
+}
+
+.aa:hover {
+    border: 15px dotted red;
+
+    border-radius: 100px;
+    margin: 20px;
+
+}
+
+iframe {
+    border: 15px dotted rgb(145, 17, 17);
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+
+}
+
+iframe:hover {
+    border: 10px solid rgb(152, 184, 179);
+    border-radius: 200px;
+
+}
+
+.bb {
+    border: 10px solid rgb(166, 95, 180);
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+}
+
+.bb:hover {
+    border: 15px dotted blue;
+    border-radius: 5px;
+
+
+
+}
+
+.vv {
+    border: 10px solid rgb(241, 237, 8);
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+
+
+}
+
+.vv:hover {
+    border: 15px dotted rgb(197, 76, 167);
+    border-radius: 5px;
+
+
+}
+
+.r {
+    border: 10px double red;
+    border-radius: 30px;
+}
+
+.r:hover {
+    border: 15px dotted blue;
+    border-radius: 100px;
+}

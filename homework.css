@@ -1,0 +1,61 @@
+body{
+    background-image: url("./background.webp");
+    background-size: cover;
+}
+.asosiy{
+    display: flex;
+    flex-direction: column;
+}
+.birinchi{
+    display: flex;
+    /* flex-direction: row;
+    justify-content: space-around;
+    align-content: space-around;
+    font-size: 30px; */
+    flex-direction: column;
+    color: blue;
+    text-align: center;
+    margin: auto;
+}
+.ikkinchi{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-around;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 25px; 
+    text-align: center;
+    margin-top:  60px;
+}
+.box{
+    width: 400px;
+    text-align: center;
+    
+    border: 1px solid white;
+
+}
+p{
+    font-size: x-large;
+    color: blue
+}
+h1{
+    color: darkviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    color: midnightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3:hover{
+    color: deeppink;
+    font-family: 'Times New Roman', Times, serif
+}
+img{
+    border: 2px solid palegoldenrod;
+    border-radius: 30px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}

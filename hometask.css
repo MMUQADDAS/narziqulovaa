@@ -1,0 +1,183 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1400px;
+    height: 260px;
+}
+
+.top3{
+    border: 3px solid slateblue;
+    height: 30px;
+    width: 100px;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.top1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 170px;
+    top: 90px;
+}
+
+.top2 {
+    position: absolute;
+    width: 73px;
+    height: 23px;
+    left: 1157px;
+    top: 134px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.topcha {
+    position: absolute;
+    width: 1060px;
+    height: 500px;
+    left: 170px;
+    top: 250px;
+
+    background: url(./1614723891_106-p-foni-dlya-literaturi-128\ 1.jpg);
+}
+
+.orta {
+    text-align: center;
+    padding-top: 100px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 59px;
+
+    color: #494949;
+
+}
+
+.middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1060px;
+    margin-top: 550px;
+    margin-left: 165px;
+
+
+
+}
+
+
+
+em {
+   
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+
+
+}
+
+i {
+    width: 270px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+
+    text-align: center;
+   
+}
+
+.box {
+   
+    
+   
+    width: 300px;
+    height: 280px;
+
+
+    background: #C4C4C4;
+}
+
+
+.tegi {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 1400px;
+    height: 260px;
+    background-color: #C4C4C4;
+
+
+}
+
+.list1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 170px;
+    top: 1270px;
+}
+
+.list2 {
+    position: absolute;
+    width: 366px;
+    height: 28px;
+    left: 864px;
+    top: 1280px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #000000;
+
+}
+.a{
+    padding-top: 50px;
+    padding-left: 30px;
+   
+   
+}
+.b{
+    padding-top: 50px;
+    padding-left: 30px;
+    
+}
+.c{
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 25px;
+}
